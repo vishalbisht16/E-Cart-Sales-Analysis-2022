@@ -8,6 +8,10 @@ Microsoft Excel: Utilized for data cleaning, transformation, and analysis.
 
 Pivot Tables & Charts: Employed to create interactive visualizations and summarize large datasets effectively.
 
+# Dashboard Preview
+<img width="1681" height="747" alt="image" src="https://github.com/user-attachments/assets/a5ddc08e-e867-40a8-bfc7-4a51dd716e37" />
+
+
 # Key Analytical Insights
 Sales Performance Trends: Conducted a comprehensive comparison of monthly sales and order volumes to identify peak performance periods.
 
