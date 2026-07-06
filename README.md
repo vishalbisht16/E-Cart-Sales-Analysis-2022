@@ -22,3 +22,5 @@ Customer Segmentation: Explored the correlation between age groups, gender, and 
 Channel Efficiency: Determined the sales channel that contributes the most to overall revenue.
 
 Product Performance: Analyzed category-wise sales data to pinpoint top-selling product segments.
+
+# Please refer to the attached Excel file for the complete data analysis, interactive dashboard, and findings.
